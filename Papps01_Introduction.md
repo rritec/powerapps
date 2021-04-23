@@ -13,6 +13,11 @@
     - https://docs.microsoft.com/en-us/learn/modules/get-started-with-powerapps/
     - https://www.youtube.com/watch?v=88FlPT7XbP0
     - https://docs.microsoft.com/en-us/learn/modules/customize-apps-in-powerapps/1-improve-apps-with-customization
+    - https://docs.microsoft.com/en-us/learn/paths/use-basic-formulas-powerapps-canvas-app/
+    - https://docs.microsoft.com/en-us/learn/paths/work-with-data-in-a-canvas-app/
+    - https://docs.microsoft.com/en-us/learn/paths/ui-controls-canvas-app-powerapps/
+    - https://docs.microsoft.com/en-us/learn/paths/advanced-data-options-and-connectors/
+    - https://docs.microsoft.com/en-us/learn/paths/understand-advanced-topics/
     - 
 1. 
 7. 
