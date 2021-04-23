@@ -9,4 +9,10 @@
     - **Power Apps portals Studio** is a WYSIWYG design tool to add and configure webpages, components, forms, and lists. More information: Power Apps portals Studio anatomy
     ![image](https://user-images.githubusercontent.com/20516321/115822800-c53ec280-a422-11eb-921e-8594bedc495b.png)
 
-5. 
+5. ## Get started with Power Apps
+    - https://docs.microsoft.com/en-us/learn/modules/get-started-with-powerapps/
+    - https://www.youtube.com/watch?v=88FlPT7XbP0
+    - https://docs.microsoft.com/en-us/learn/modules/customize-apps-in-powerapps/1-improve-apps-with-customization
+    - 
+1. 
+7. 
