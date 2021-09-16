@@ -31,5 +31,5 @@
 12. Download Power Apps mobile app:
     - For iOS (iPad or iPhone), go to the App Store
     - For Android, go to Google Play
-13. Sign in with your M365 Developer Account.
+13. Sign in with your M365 Developer Account(example: mylaramreddy@mylaramreddy.onmicrosoft.com)
 14. Tap on your app to run it
