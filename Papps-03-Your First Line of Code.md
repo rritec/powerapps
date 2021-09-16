@@ -12,4 +12,15 @@
 ![image](https://user-images.githubusercontent.com/20516321/133564021-d4ca4881-a40f-4995-8cff-d58157eaf170.png)
 
 5. To fix this error let us change code
-6. 
+6. Click on **app** > Select property as **OnStart**
+![image](https://user-images.githubusercontent.com/20516321/133564542-9a85f04f-3f2a-43bf-b565-045217cef0bb.png)
+
+7. Add M365 developer account to **AdminList**  
+    
+                  ClearCollect(AdminList,"MariaC@contoso.com","JimG@contoso.com","ScottK@contoso.com","NancyA@contoso.com","ThomasA@contoso.com","YvonneM@contoso.com","mylaramreddy@mylaramreddy.onmicrosoft.com")
+      
+8. Click on app **...** > Click on **Run onStart** > **Save** it
+9. Open the app > Click on **Login as a Help Desk Admin** > now we will be able to login
+![image](https://user-images.githubusercontent.com/20516321/133566839-ec417fa7-a49b-4c90-b98e-21ce40061131.png)
+
+ 
